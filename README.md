@@ -4,3 +4,6 @@ Based on [spotlight.js/index.html at master · cttricks/spotlight.js](https://gi
 
 ### Tutorials
 - [Quick start guide - Spotlight.js](https://cttricks.github.io/spotlight.js/docs/#quick-start-guide)
+
+
+<!-- Security scan triggered at 2026-09-15 09:39:05 -->
